@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
-:rooy{
+
+:root{
     --text-color:#DBE4EF;
     --card-front-color:#144480;
     --card-back-color:#00F4BF;
 }
+
 body{
     background:url(img/bg-desktop.webp);
     font-family: bai Jamjuree;
@@ -45,7 +47,11 @@ margin-top: 0.5rem;
     height: 100%;
 }
 .cartao__conteudo h3{
+<<<<<<< HEAD
+    color: var(--text-color);
+=======
      color: var();
+>>>>>>> 1a2a426a325c6981f8daa808e82d779ad3b52819
     text-align: left;
     padding: 0.5rem;
     position: absolute;
