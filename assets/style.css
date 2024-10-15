@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 
@@ -19,10 +20,6 @@ bottom: 0;
 position: fixed;
 width: 100%;
 }
-
-
-
-
 
 footer p{
 text-align: center;
@@ -55,7 +52,7 @@ margin-top: 0.5rem;
     margin-top: 4rem;
 }
 .cartao__conteudo__resposta{
-    transform: rotateY(180grau);
+    transform: rotateY(180deg);
    
 }
 .cartao__conteudo__pergunta p{
@@ -63,7 +60,8 @@ margin-top: 0.5rem;
     font-weight: 500;
 }
 .cartao__conteudo__resposta p{
-    
+    color: var(--card-back-color);
+    font-weight:700 ;
 }
 
 .cartao__conteudo h3{
