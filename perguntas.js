@@ -7,7 +7,7 @@ criaCartao(
     'Programação',
     'O que é Java Script?',
     'É uma linguagem de programação que permite colocar itens em páginas web',
-)'
+)
 criaCartao(
    'Programação',
     'O que o css faz?',
