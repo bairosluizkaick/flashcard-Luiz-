@@ -2,13 +2,13 @@
 
 :root {
     --text-color: #e3ecf7;
-    --card-front-color: #583ca3;
-    --card-back-color: #83f0b9;@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+    --card-front-color: #000000;
+    --card-back-color: #418abb;@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
     :root {
-        --text-color: #e3ecf7;
-        --card-front-color: #583ca3;
-        --card-back-color: #83f0b9;
+        --text-color: #0e73ee;
+        --card-front-color: #f8f8f8;
+        --card-back-color: #1f2020;
     }
     
     body {
